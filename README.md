@@ -107,7 +107,7 @@ Open your browser at: `http://127.0.0.1:5000`
 
 | Account | Username | Email | Role / Notes |
 | :--- | :--- | :--- | :--- |
-| **Demo User** | `bharat` | `bharat@example.com` | Verified user with bookmarks & active progress |
+| **Demo User** | `lokesh` | `lokesh@example.com` | Verified user with bookmarks & active progress |
 | **Admin User** | `admin` | `admin@skillmarket.com` | Full administrative console access |
 
 ---
